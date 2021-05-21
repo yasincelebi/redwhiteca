@@ -16,5 +16,5 @@ app.get('/api', async (req, res, next) => {
 });
 
 app.listen(4000, () => {
-  console.log('sw çalişio');
+  console.log('sw running');
 });
