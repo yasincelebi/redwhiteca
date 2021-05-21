@@ -27,7 +27,6 @@ const CardList = () => {
   const handleFilter = (value) => {
     if (value !== 'All') {
       setFilteredData(data.filter((e) => e.status.label === value));
-      console.log(data);
     } else if (value === 'All') {
       setFilteredData(data);
     }
