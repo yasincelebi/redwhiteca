@@ -1,0 +1,14 @@
+.card {
+  width: 100%;
+  .type {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
+  .code {
+    color: rgb(10, 127, 139);
+    font-weight: 500;
+    font-size: 1.3rem;
+  }
+}
