@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "label": "All"
+  },
+  {
+    "id": 2,
+    "label": "Available"
+  },
+  {
+    "id": 3,
+    "label": "Reserved"
+  },
+  {
+    "id": 4,
+    "label": "Sold"
+  },
+  {
+    "id": 5,
+    "label": "Not Released"
+  }
+]
